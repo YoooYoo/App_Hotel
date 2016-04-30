@@ -1,0 +1,24 @@
+.img-rtl { -webkit-transform: rotateY(180deg); /* Safari */  transform: rotateY(180deg); /* Standard syntax */ }
+.go-right { float: right !important; }
+.go-left { float: left !important; }
+.go-text-left { text-align: left !important; }
+.go-text-right { text-align: right !important; }
+
+input { direction:RTL }
+::-webkit-input-placeholder { direction: rtl; }
+:-moz-placeholder { direction: rtl; }
+::-moz-placeholder { direction: rtl; }
+:-ms-input-placeholder { direction: rtl; }
+
+.location-icon::-webkit-input-placeholder:before { content : " \f041" ; }
+.calender-icon::-webkit-input-placeholder:before { content : " \f073" ; }
+.search-icon:after { font: normal normal normal 14px/1 FontAwesome; content : " \f002" ; }
+.search-icon:before { display: none !important }
+
+.panel-title { direction:RTL }
+.RTL { direction:RTL }
+#rtl-menu { right:8% !important; }
+.rt-menu-caption { margin-left:-85px }
+
+.dropdownjs > ul > li {  text-align: right !important; }
+.navbar .navbar-form .form-control-wrapper .form-control, .navbar .navbar-form .form-control { text-align: left !important; }
