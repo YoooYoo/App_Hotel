@@ -1,16 +1,3 @@
-<!--<script type="text/javascript">-->
-<!--    $(function () {-->
-<!--        // Handle display context-->
-<!--        $('#reviews_contexts').tokenfield({-->
-<!--            autocomplete: {-->
-<!--                source: ['red','blue','green','yellow','violet','brown','purple','black','white'],-->
-<!--                delay: 100-->
-<!--            },-->
-<!--            showAutocompleteOnFocus: true-->
-<!--        });-->
-<!--    });-->
-<!--    // End document ready-->
-<!--</script>-->
 <h3 class="go-text-right strong" style="margin-top:0px"><?php echo $hotel->title; ?></h3>
 <p class="text-small go-text-right "><i class="fa fa-map-marker go-right"></i> <?php echo $hotel->location; ?> &nbsp;
     <br>
@@ -277,7 +264,14 @@
                                 <div class="clearfix"></div>
                                 <div class="panel panel-primary">
                                     <div class="panel-heading"><strong><?php echo trans('0446'); ?></strong></div>
-                                    <input class="form-control form" type="text" name="reviews_contexts" id="reviews_contexts">
+                                    <select multiple class="chosen-multi-select" name="reviews_contexts[]">
+                                        <option value="28">Ngữ cảnh 1</option>
+                                        <option value="29">Ngữ cảnh 2</option>
+                                        <option value="30">Ngữ cảnh 3</option>
+                                        <option value="31">Ngữ cảnh 4</option>
+                                        <option value="32">Ngữ cảnh 5</option>
+                                        <option value="33">Ngữ cảnh 6</option>
+                                    </select>
                                 </div>
 
                                 <div class="clearfix"></div>
@@ -305,6 +299,15 @@
         </div>
     </div>
 </div>
+
+<script>
+    $(function() {
+        $('.chosen-select').select2( { width:'100%', maximumSelectionSize: 1 } );
+        $(document).ready(function() {
+            $(".chosen-multi-select").select2( { width:'100%', } ); }); }); function slideout(){ setTimeout(function(){
+        $(".alert-success").fadeOut("slow", function () { });
+        $(".alert-danger").fadeOut("slow", function () { }); }, 4000);}
+</script>
 <!-Comments Modal-->
 
 <script type="text/javascript">

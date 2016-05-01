@@ -44,21 +44,16 @@ if (empty($langname)) {
         } ?> </title>
 
     <link href="<?php echo $theme_url; ?>assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="<?php echo $theme_url; ?>assets/css/bootstrap-tokenfield.css" rel="stylesheet">
-    <link href="<?php echo $theme_url; ?>assets/css/tokenfield-typeahead.min.css" rel="stylesheet"/>
+
+    <link href="http://hotel-kl.app/assets/include/select2/select2.css" rel="stylesheet">
+    <link href="http://hotel-kl.app/assets/include/select2/select2-default.css" rel="stylesheet">
 
     <link href="<?php echo $theme_url; ?>style.min.css" rel="stylesheet">
     <?php if ($isRTL == "RTL") { ?>
         <link href="<?php echo $theme_url; ?>RTL.css" rel="stylesheet">
     <?php } ?>
 
-    <script src="<?php echo $theme_url; ?>assets/js/bootstrap.min.js"></script>
-
     <script src="<?php echo $theme_url; ?>assets/js/jquery-1.10.2.min.js"></script>
-
-    <script src="<?php echo $theme_url; ?>assets/js/bootstrap-tokenfield.min.js"></script>
-    <script src="<?php echo $theme_url; ?>assets/js/typeahead.bundle.min.js"></script>
-
 
     <link href="<?php echo $theme_url; ?>assets/include/animate/animate.min.css" rel="stylesheet">
     <script src="<?php echo $theme_url; ?>assets/include/animate/wow.min.js"></script>
