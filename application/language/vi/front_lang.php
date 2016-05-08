@@ -12,7 +12,7 @@ $L1["Tours"]  = "Tours";
 $L1["Offers"] = "Offers";
 $L1["Ean"]    = "Hotels";
 $L1["Cars"]   = "Cars";
-$L1["Blog"]   = "Blog";
+$L1["Blog"]   = "Tin tức";
 
 $L1["01"]   = "Trang chủ";
 $L1["02"]   = "My Account";
