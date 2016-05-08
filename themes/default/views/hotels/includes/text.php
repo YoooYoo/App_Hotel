@@ -264,14 +264,14 @@
                                 <div class="clearfix"></div>
                                 <div class="panel panel-primary">
                                     <div class="panel-heading"><strong><?php echo trans('0446'); ?></strong></div>
-                                    <select multiple class="chosen-multi-select" name="reviews_contexts[]">
-                                        <option value="28">Ngữ cảnh 1</option>
-                                        <option value="29">Ngữ cảnh 2</option>
-                                        <option value="30">Ngữ cảnh 3</option>
-                                        <option value="31">Ngữ cảnh 4</option>
-                                        <option value="32">Ngữ cảnh 5</option>
-                                        <option value="33">Ngữ cảnh 6</option>
-                                    </select>
+                                    <div class="col-md-13">
+                                        <select multiple class="chosen-multi-select" name="reviews_contexts[]">
+                                            <?php foreach($contexts as $item){ ?>
+                                                <option value="<?php echo $item->id;?>" <?php  if(in_array($item->id,@$assigned)){ echo 'selected'; } ?>  >
+                                                    <?php echo $item->name;?></option>
+                                            <?php } ?>
+                                        </select>
+                                    </div>
                                 </div>
 
                                 <div class="clearfix"></div>

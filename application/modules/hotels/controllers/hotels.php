@@ -96,7 +96,7 @@ class Hotels extends MX_Controller
 
             // Get context data
             $context = $this->context_model->getContext();
-            $this->data['contexts'] = !empty($context) ? $context : null;
+            $this->data['contexts'] = !empty($context['all']) ? $context['all'] : null;
 
             $this->theme->view('hotels/hotel', $this->data);
         } else {
