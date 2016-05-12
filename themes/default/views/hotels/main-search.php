@@ -89,8 +89,7 @@
     });
 </script>
 
-<div class="
- fade" id="ConditionContext" tabindex="-1" role="dialog" aria-labelledby="ConditionContext" aria-hidden="true">
+<div class="modal fade in" id="ConditionContext" tabindex="" role="dialog" aria-labelledby="ConditionContext" aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
