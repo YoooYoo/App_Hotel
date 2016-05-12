@@ -81,12 +81,12 @@ if (empty($langname)) {
             color: #fff;
             background-color: transparent;
         }
-    </style
+    </style>
 </head>
 <body>
 
 <header class="<?php echo @$hidden; ?>">
-    <nav class="navbar navbar-static-top navbar-default" style="background-color:#1D62D7;">
+        <nav class="navbar navbar-static-top navbar-default" style="background-color:#1D62D7;">
         <div class="container">
             <div class="navbar-header go-right">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header">
