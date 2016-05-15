@@ -51,6 +51,7 @@ class Reviews extends MX_Controller
 
     function add()
     {
+        die;
         $addreview = $this->input->post('addreview');
         if (!empty($addreview)) {
 
