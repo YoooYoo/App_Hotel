@@ -215,7 +215,7 @@
     <?php }else{  echo '<h1 class="text-center">' . trans("066") . '</h1>'; } ?>
   </div>
 </div>
-<!-- PHPtravels Modal Starting-->
+<!-- MODAL -->
 <div class="modal fade" id="datepicker" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-md">
     <div class="modal-content">
@@ -281,7 +281,7 @@
     </div>
   </div>
 </div>
-<!-- PHPtravels Modal Ending-->
+<!-- MODAL ENDING -->
 <!-- Map Modal -->
 <div class="modal fade" id="mapModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
