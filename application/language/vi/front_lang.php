@@ -463,6 +463,7 @@ $L1["0445"] = "Reserved";
 $L1["0446"] = "Ngữ cảnh";
 $L1["0447"] = "Thêm điều kiện tìm kiếm ngữ cảnh";
 $L1["0448"] = "Điều kiện tìm kiếm theo ngữ cảnh";
+$L1["0449"] = "Khách sạn này bạn đã đánh giá";
 
 
 

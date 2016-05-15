@@ -329,7 +329,6 @@
             var id = $(this).prop("id");
             $.post("<?php echo base_url();?>admin/ajaxcalls/postreview", $("#reviews-form-" + id).serialize(), function (resp) {
                 var response = $.parseJSON(resp);
-                // alert(response.msg);
                 $("#review_result" + id).html("<div class='alert " + response.divclass + "'>" + response.msg + "</div>").fadeIn("slow");
             });
 

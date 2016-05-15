@@ -1022,6 +1022,8 @@ class Ajaxcalls extends MX_Controller
         $this->form_validation->set_rules('reviews_comments', 'Comment', 'trim|required');
         $this->form_validation->set_rules('email', 'Email', 'required|valid_email');
         $this->form_validation->set_rules('fullname', 'Name', 'trim|required');
+        $this->form_validation->set_rules('reviews_contexts', 'Context', 'required');
+
         if ($this->form_validation->run() == FALSE) {
             $response = array(
                 'result' => false,
@@ -1034,14 +1036,14 @@ class Ajaxcalls extends MX_Controller
                 $response = array(
                     'result' => false,
                     'divclass' => 'alert-danger',
-                    'msg' => 'You have already posted a Review'
+                    'msg' => 'Khách sạn này bạn đã đánh giá!'
                 );
             } else {
                 $this->reviews_model->add_review_public($this->appsettings[0]->reviews);
                 $response = array(
                     'result' => true,
                     'divclass' => 'alert-success',
-                    'msg' => 'Review Posted Successfully'
+                    'msg' => 'Bạn đã đánh giá thành công!'
                 );
             }
         }
