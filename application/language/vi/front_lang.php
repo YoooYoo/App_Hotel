@@ -464,6 +464,23 @@ $L1["0446"] = "Ngữ cảnh";
 $L1["0447"] = "Thêm điều kiện tìm kiếm ngữ cảnh";
 $L1["0448"] = "Điều kiện tìm kiếm theo ngữ cảnh";
 $L1["0449"] = "Khách sạn này bạn đã đánh giá";
+$L1["0450"] = "Thời gian";
+$L1["0451"] = "Ngày cuối tuần";
+$L1["0452"] = "Ngày trong tuần";
+$L1["0460"] = "Thời tiết";
+$L1["0461"] = "Mùa xuân";
+$L1["0462"] = "Mùa hạ";
+$L1["0463"] = "Mùa thu";
+$L1["0464"] = "Mùa đông";
+$L1["0470"] = "Người đi cùng";
+$L1["0471"] = "Gia đình";
+$L1["0472"] = "Nhóm bạn";
+$L1["0473"] = "Cặp đôi";
+$L1["0474"] = "Khách lẻ";
+$L1["0480"] = "Mục đích";
+$L1["0481"] = "Chuyến đi công tác";
+$L1["0482"] = "Chuyến đi nghỉ mát";
+$L1["0490"] = "ĐIỀU KIỆN GỢI Ý THEO NGỮ CẢNH";
 
 
 
