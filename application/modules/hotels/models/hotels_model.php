@@ -811,7 +811,9 @@ class Hotels_model extends CI_Model
         }
 
         if (!empty ($lat) && !empty($long)) {
-           // $this->db->where_in('pt_context_reviews.context_id', $time);
+            $sql = '(6371.137 * ACOS(COS(RADIANS('. $lat .')) * COS(RADIANS(`pt_hotels`.`hotel_latitude`)) * COS(RADIANS(`pt_hotels`.`hotel_longitude`) - RADIANS('. $long .')) + SIN(RADIANS('. $lat .')) * SIN(RADIANS(`pt_hotels`.`hotel_latitude`)))) AS `distance`';
+            $this->db->select($sql);
+            $this->db->having('distance <= 5');
         }
 
 
@@ -822,9 +824,6 @@ class Hotels_model extends CI_Model
         $data['all'] = $query->result();
         $data['rows'] = $query->num_rows();
 
-        echo '<pre>';
-        print_r($this->db->last_query());
-        die;
         return $data;
     }
 
