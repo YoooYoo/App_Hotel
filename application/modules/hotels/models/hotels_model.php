@@ -714,7 +714,8 @@ class Hotels_model extends CI_Model
     }
 
 //search hotels by text
-    function search_hotels_by_text($perpage = null, $offset = null, $orderby = null, $cities = null, $lists = null, $checkin = null, $checkout = null)
+    function search_hotels_by_text($perpage = null, $offset = null, $orderby = null, $cities = null,
+                                   $lists = null, $checkin = null, $checkout = null)
     {
         $data = array();
 
@@ -733,6 +734,14 @@ class Hotels_model extends CI_Model
         $sprice = $this->input->get('price');
         $types = $this->input->get('type');
 
+        // Assign condition context in query sql
+        $time = $this->input->get('thoi_gian');
+        $weather = $this->input->get('thoi_tiet');
+        $with_people = $this->input->get('di_cung');
+        $purpose = $this->input->get('muc_dich');
+        $lat = $this->input->get('lat');
+        $long = $this->input->get('long');
+
         //$hotelslist = $lists['hotels'];
         if ($offset != null) {
             $offset = ($offset == 1) ? 0 : ($offset * $perpage) - $perpage;
@@ -741,8 +750,8 @@ class Hotels_model extends CI_Model
         $this->db->select_avg('pt_reviews.review_overall', 'overall');
 
         $this->db->like('pt_hotels.hotel_title', $searchtxt);
-        $this->db->or_like('pt_hotels_translation.trans_title', $searchtxt);
-        $this->db->or_like('pt_hotels.hotel_city', $searchtxt);
+        //$this->db->like('pt_hotels_translation.trans_title', $searchtxt);
+        $this->db->like('pt_hotels.hotel_city', $searchtxt);
 
         if (!empty ($stars)) {
             $this->db->having('pt_hotels.hotel_stars', $stars);
@@ -781,10 +790,41 @@ class Hotels_model extends CI_Model
         $this->db->group_by('pt_hotels.hotel_id');
         $this->db->join('pt_rooms', 'pt_hotels.hotel_id = pt_rooms.room_hotel', 'left');
         $this->db->join('pt_reviews', 'pt_hotels.hotel_id = pt_reviews.review_itemid', 'left');
+
+        // Add condition context in query sql
+        $this->db->join('pt_context_reviews', 'pt_context_reviews.review_id = pt_reviews.review_id', 'left');
+
+        if (!empty ($time)) {
+            $this->db->where_in('pt_context_reviews.context_id', $time);
+        }
+
+        if (!empty ($weather)) {
+            $this->db->where_in('pt_context_reviews.context_id', $weather);
+        }
+
+        if (!empty ($with_people)) {
+            $this->db->where_in('pt_context_reviews.context_id', $with_people);
+        }
+
+        if (!empty ($purpose)) {
+            $this->db->where_in('pt_context_reviews.context_id', $purpose);
+        }
+
+        if (!empty ($lat) && !empty($long)) {
+           // $this->db->where_in('pt_context_reviews.context_id', $time);
+        }
+
+
         $this->db->having('pt_hotels.hotel_status', 'Yes');
+
         $query = $this->db->get('pt_hotels', $perpage, $offset);
+
         $data['all'] = $query->result();
         $data['rows'] = $query->num_rows();
+
+        echo '<pre>';
+        print_r($this->db->last_query());
+        die;
         return $data;
     }
 
