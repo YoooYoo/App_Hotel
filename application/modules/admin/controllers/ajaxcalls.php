@@ -1018,6 +1018,8 @@ class Ajaxcalls extends MX_Controller
     public function postreview()
     {
         $response = array();
+
+        // Load model
         $this->load->model('admin/reviews_model');
         $this->form_validation->set_rules('reviews_comments', 'Comment', 'trim|required');
         $this->form_validation->set_rules('email', 'Email', 'required|valid_email');
