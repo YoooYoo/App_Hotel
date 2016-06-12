@@ -746,12 +746,12 @@ class Hotels_model extends CI_Model
         if ($offset != null) {
             $offset = ($offset == 1) ? 0 : ($offset * $perpage) - $perpage;
         }
-        $this->db->select('pt_hotels.*,pt_rooms.room_basic_price as price,pt_hotels_translation.trans_title');
+        $this->db->select('pt_reviews.*,pt_hotels.*,pt_rooms.room_basic_price as price,pt_hotels_translation.trans_title');
         $this->db->select_avg('pt_reviews.review_overall', 'overall');
 
         $this->db->like('pt_hotels.hotel_title', $searchtxt);
         //$this->db->like('pt_hotels_translation.trans_title', $searchtxt);
-        $this->db->like('pt_hotels.hotel_city', $searchtxt);
+        $this->db->or_like('pt_hotels.hotel_city', $searchtxt);
 
         if (!empty ($stars)) {
             $this->db->having('pt_hotels.hotel_stars', $stars);
@@ -823,6 +823,11 @@ class Hotels_model extends CI_Model
 
         $data['all'] = $query->result();
         $data['rows'] = $query->num_rows();
+
+        // print_r($this->db->last_query());
+        echo '<pre>';
+        print_r($data);
+        die;
 
         return $data;
     }

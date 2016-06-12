@@ -1,3 +1,10 @@
+<style>
+    .row-context {
+        width:50% !important;
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
+</style>
 <h3 class="go-text-right strong" style="margin-top:0px"><?php echo $hotel->title; ?></h3>
 <p class="text-small go-text-right "><i class="fa fa-map-marker go-right"></i> <?php echo $hotel->location; ?> &nbsp;
     <br>
@@ -271,6 +278,55 @@
                                                     <?php echo $item->name;?></option>
                                             <?php } ?>
                                         </select>
+                                    </div>
+                                </div>
+
+                                <div class="clearfix"></div>
+                                <div class="panel panel-primary">
+                                    <div class="panel-heading"><strong><?php echo trans('0446'); ?></strong></div>
+                                    <div class="row">
+                                        <div class="form-group col-md-6">
+                                            <label class="col-md-4 control-label"><?php echo trans('0450'); ?></label>
+                                            <div class="col-md-8">
+                                                <select class="form-control" name="time" style="width: 112%;">
+                                                    <option value="1"><?php echo trans('0451'); ?></option>
+                                                    <option value="2"><?php echo trans('0452'); ?></option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-6">
+                                            <label class="col-md-4 control-label"><?php echo trans('0460'); ?></label>
+                                            <div class="col-md-8">
+                                                <select class="form-control" name="time" style="width: 112%;">
+                                                    <option value="1"><?php echo trans('0461'); ?></option>
+                                                    <option value="2"><?php echo trans('0462'); ?></option>
+                                                    <option value="1"><?php echo trans('0463'); ?></option>
+                                                    <option value="2"><?php echo trans('0464'); ?></option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-group col-md-6">
+                                            <label class="col-md-4 control-label"><?php echo trans('0470'); ?></label>
+                                            <div class="col-md-8">
+                                                <select class="form-control" name="time" style="width: 112%;">
+                                                    <option value="1"><?php echo trans('0471'); ?></option>
+                                                    <option value="2"><?php echo trans('0472'); ?></option>
+                                                    <option value="1"><?php echo trans('0473'); ?></option>
+                                                    <option value="2"><?php echo trans('0474'); ?></option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-6">
+                                            <label class="col-md-4 control-label"><?php echo trans('0480'); ?></label>
+                                            <div class="col-md-8">
+                                                <select class="form-control" name="time" style="width: 112%;">
+                                                    <option value="1"><?php echo trans('0481'); ?></option>
+                                                    <option value="2"><?php echo trans('0482'); ?></option>
+                                                </select>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
 
