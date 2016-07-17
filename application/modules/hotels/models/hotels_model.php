@@ -792,23 +792,23 @@ class Hotels_model extends CI_Model
         $this->db->join('pt_reviews', 'pt_hotels.hotel_id = pt_reviews.review_itemid', 'left');
 
         // Add condition context in query sql
-//        $this->db->join('pt_context_reviews', 'pt_context_reviews.review_id = pt_reviews.review_id', 'left');
-//
-//        if (!empty ($time)) {
-//            $this->db->where_in('pt_context_reviews.context_id', $time);
-//        }
-//
-//        if (!empty ($weather)) {
-//            $this->db->where_in('pt_context_reviews.context_id', $weather);
-//        }
-//
-//        if (!empty ($with_people)) {
-//            $this->db->where_in('pt_context_reviews.context_id', $with_people);
-//        }
-//
-//        if (!empty ($purpose)) {
-//            $this->db->where_in('pt_context_reviews.context_id', $purpose);
-//        }
+        $this->db->join('pt_context_reviews', 'pt_context_reviews.review_id = pt_reviews.review_id', 'left');
+
+        if (!empty ($time)) {
+            $this->db->where_in('pt_context_reviews.context_id', $time);
+        }
+
+        if (!empty ($weather)) {
+            $this->db->where_in('pt_context_reviews.context_id', $weather);
+        }
+
+        if (!empty ($with_people)) {
+            $this->db->where_in('pt_context_reviews.context_id', $with_people);
+        }
+
+        if (!empty ($purpose)) {
+            $this->db->where_in('pt_context_reviews.context_id', $purpose);
+        }
 
         if (!empty ($lat) && !empty($long)) {
             $sql = '(6371.137 * ACOS(COS(RADIANS('. $lat .')) * COS(RADIANS(`pt_hotels`.`hotel_latitude`)) * COS(RADIANS(`pt_hotels`.`hotel_longitude`) - RADIANS('. $long .')) + SIN(RADIANS('. $lat .')) * SIN(RADIANS(`pt_hotels`.`hotel_latitude`)))) AS `distance`';
