@@ -1,7 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="709d052c-a718-4bb4-824e-a009f8c13f46" name="Default" comment="" />
+    <list default="true" id="709d052c-a718-4bb4-824e-a009f8c13f46" name="Default" comment="[User site] Refactor code">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/default/assets/images/icon_setting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/extras/1bu3pan61ecgk0o.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/extras/3alim5rzkf8kk0s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/119263_28971507.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/187867_century.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/33204_indochine.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/333924_36364263.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/387573_morin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/446991_12466086.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/528870_hgiang.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/536682_28333584.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/550323_asia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/583527_38697629.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/672027_15699135.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/698150_44172688.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/701965_20308754.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/797058_gold.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/841003_midtown.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/851196_edora.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/876587_22233668.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/879425_42072925.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/896789_43252359.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/940399_39175769.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/971344_moonlight.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/119263_28971507.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/187867_century.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/33204_indochine.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/333924_36364263.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/387573_morin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/446991_12466086.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/528870_hgiang.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/536682_28333584.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/550323_asia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/583527_38697629.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/672027_15699135.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/698150_44172688.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/701965_20308754.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/797058_gold.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/841003_midtown.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/851196_edora.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/876587_22233668.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/879425_42072925.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/896789_43252359.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/940399_39175769.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/971344_moonlight.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matrix" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/rooms/photos/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/rooms/photos/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/rooms/photos/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/rooms/photos/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/rooms/thumbs/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/rooms/thumbs/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/rooms/thumbs/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/rooms/thumbs/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/217102_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/2198_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/328308_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/370148_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/450256_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/54932_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/603302_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/678222_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/729706_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/848785_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/217102_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/2198_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/328308_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/370148_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/450256_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/54932_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/603302_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/678222_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/729706_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/848785_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/images/hotels/slider/thumbs/9.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/hotels/libraries/hotels_lib.php" afterPath="$PROJECT_DIR$/application/modules/hotels/libraries/hotels_lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules/hotels/models/hotels_model.php" afterPath="$PROJECT_DIR$/application/modules/hotels/models/hotels_model.php" />
+    </list>
     <ignored path="App_Hotel.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,84 +125,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hotels.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/hotels/controllers/hotels.php">
+      <file leaf-file-name="hotels_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/hotels/models/hotels_model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-60.625">
-              <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="text.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/default/views/hotels/includes/text.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="4" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/default/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.375">
-              <caret line="59" column="86" selection-start-line="54" selection-start-column="4" selection-end-line="59" selection-end-column="86" />
+            <state vertical-scroll-proportion="-23.375">
+              <caret line="824" column="43" selection-start-line="824" selection-start-column="43" selection-end-line="824" selection-end-column="43" />
               <folding>
-                <element signature="e#8888#8955#0#PHP" expanded="true" />
-                <element signature="e#9928#9975#0#PHP" expanded="true" />
+                <marker date="1468763537000" expanded="true" signature="32314:32389" placeholder="SELECT short... pt_countries" />
+                <marker date="1468763537000" expanded="true" signature="32314:32658" placeholder="SELECT short... " />
+                <marker date="1468763537000" expanded="true" signature="32409:32481" placeholder="SELECT state... pt_states" />
+                <marker date="1468763537000" expanded="true" signature="32494:32564" placeholder="SELECT city_... pt_cities" />
+                <marker date="1468763537000" expanded="true" signature="32584:32658" placeholder="SELECT hotel... pt_hotels" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accounts.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/accounts.php">
+      <file leaf-file-name="Matrix" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Matrix">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.125">
-              <caret line="592" column="0" selection-start-line="592" selection-start-column="0" selection-end-line="592" selection-end-column="0" />
+            <state vertical-scroll-proportion="-29.125">
+              <caret line="112" column="1" selection-start-line="1" selection-start-column="0" selection-end-line="112" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cms.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/cms.php">
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/home/controllers/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.3529413">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state vertical-scroll-proportion="150.0">
+              <caret line="16" column="14" selection-start-line="15" selection-start-column="10" selection-end-line="16" selection-end-column="14" />
+              <folding>
+                <marker date="1468763009000" expanded="true" signature="16635:16710" placeholder="SELECT short... pt_countries" />
+                <marker date="1468763009000" expanded="true" signature="16635:16885" placeholder="SELECT short... " />
+                <marker date="1468763009000" expanded="true" signature="16730:16802" placeholder="SELECT state... pt_states" />
+                <marker date="1468763009000" expanded="true" signature="16815:16885" placeholder="SELECT city_... pt_cities" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="front_lang.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/language/vi/front_lang.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-61.083332">
+              <caret line="481" column="9" selection-start-line="481" selection-start-column="9" selection-end-line="481" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/admin/views/login.php">
+      <file leaf-file-name="hotel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/default/views/hotels/hotel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375">
-              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+            <state vertical-scroll-proportion="-2.5">
+              <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/admin.php">
+      <file leaf-file-name="hotels_lib.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/modules/hotels/libraries/hotels_lib.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48850575">
-              <caret line="140" column="74" selection-start-line="140" selection-start-column="74" selection-end-line="140" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="accounts_model.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/admin/models/accounts_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.375">
-              <caret line="277" column="41" selection-start-line="277" selection-start-column="41" selection-end-line="277" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.436214">
+              <caret line="242" column="115" selection-start-line="242" selection-start-column="115" selection-end-line="242" selection-end-column="115" />
               <folding />
             </state>
           </provider>
@@ -107,40 +198,54 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/themes/default/index.php" />
         <option value="$PROJECT_DIR$/application/third_party/MX/Controller.php" />
-        <option value="$PROJECT_DIR$/application/language/en/front_lang.php" />
         <option value="$PROJECT_DIR$/install/includes/database_class.php" />
         <option value="$PROJECT_DIR$/install/complete.php" />
         <option value="$PROJECT_DIR$/application/modules/sitemap/controllers/sitemap.php" />
-        <option value="$PROJECT_DIR$/themes/default/views/home/index.php" />
         <option value="$PROJECT_DIR$/application/language/vi/back_lang.php" />
         <option value="$PROJECT_DIR$/themes/default/functions.php" />
-        <option value="$PROJECT_DIR$/themes/default/views/hotels/main-search.php" />
         <option value="$PROJECT_DIR$/themes/default/views/integrations/ean/hotel.php" />
         <option value="$PROJECT_DIR$/application/modules/admin/views/coupons_view.php" />
-        <option value="$PROJECT_DIR$/themes/default/views/home/slider.php" />
         <option value="$PROJECT_DIR$/themes/default/footer.php" />
-        <option value="$PROJECT_DIR$/application/modules/supplier/controllers/reviews.php" />
         <option value="$PROJECT_DIR$/application/modules/supplier/models/supplier_reviews_model.php" />
-        <option value="$PROJECT_DIR$/application/modules/home/controllers/home.php" />
-        <option value="$PROJECT_DIR$/application/language/vi/front_lang.php" />
         <option value="$PROJECT_DIR$/application/modules/hotels/models/rooms_model.php" />
         <option value="$PROJECT_DIR$/application/config/constants.php" />
-        <option value="$PROJECT_DIR$/application/modules/hotels/models/hotels_model.php" />
         <option value="$PROJECT_DIR$/application/modules/hotels/models/context_model.php" />
-        <option value="$PROJECT_DIR$/application/modules/hotels/controllers/hotels.php" />
+        <option value="$PROJECT_DIR$/application/.htaccess" />
+        <option value="$PROJECT_DIR$/application/modules/admin/controllers/pending.php" />
+        <option value="$PROJECT_DIR$/themes/default/scripts.php" />
+        <option value="$PROJECT_DIR$/application/modules/account/controllers/account.php" />
+        <option value="$PROJECT_DIR$/application/language/en/front_lang.php" />
+        <option value="$PROJECT_DIR$/themes/default/views/home/index.php" />
         <option value="$PROJECT_DIR$/themes/default/header.php" />
+        <option value="$PROJECT_DIR$/themes/default/views/home/slider-new.php" />
+        <option value="$PROJECT_DIR$/themes/default/views/home/slider.php" />
+        <option value="$PROJECT_DIR$/themes/default/views/hotels/hotels.php" />
+        <option value="$PROJECT_DIR$/application/modules/supplier/controllers/reviews.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/models/reviews_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/hotels/controllers/hotels.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/controllers/ajaxcalls.php" />
         <option value="$PROJECT_DIR$/themes/default/views/hotels/includes/text.php" />
-        <option value="$PROJECT_DIR$/application/modules/admin/controllers/accounts.php" />
-        <option value="$PROJECT_DIR$/application/modules/admin/controllers/cms.php" />
-        <option value="$PROJECT_DIR$/application/modules/admin/models/accounts_model.php" />
-        <option value="$PROJECT_DIR$/application/modules/account/controllers/login.php" />
-        <option value="$PROJECT_DIR$/application/modules/admin/views/login.php" />
-        <option value="$PROJECT_DIR$/application/modules/admin/controllers/admin.php" />
+        <option value="$PROJECT_DIR$/../../xamppfiles/etc/extra/httpd-vhosts.conf" />
+        <option value="$PROJECT_DIR$/themes/default/views/hotels/hotel.php" />
+        <option value="$PROJECT_DIR$/application/language/vi/front_lang.php" />
+        <option value="$PROJECT_DIR$/themes/default/views/hotels/main-search.php" />
+        <option value="$PROJECT_DIR$/application/modules/home/controllers/home.php" />
+        <option value="$PROJECT_DIR$/application/modules/hotels/models/hotels_model.php" />
+        <option value="$PROJECT_DIR$/Matrix" />
+        <option value="$PROJECT_DIR$/application/modules/hotels/libraries/hotels_lib.php" />
       </list>
     </option>
   </component>
@@ -154,8 +259,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -198,7 +304,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,120 +333,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -382,11 +373,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -408,77 +395,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App_Hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
+              <option name="myItemId" value="home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -488,15 +405,16 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/schooltv.git" />
-    <property name="FullScreen" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="acc&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../couponland" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="hotel&#9;FILE&#9;file:///Applications/XAMPP/htdocs/App_Hotel/application/modules/hotels/libraries/hotels_lib.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -548,30 +466,119 @@
       <option name="number" value="Default" />
       <updated>1451205633790</updated>
     </task>
+    <task id="LOCAL-00001" summary="ASC">
+      <created>1462004164029</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1462004164029</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[User site] Refactor code">
+      <created>1462091643151</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1462091643151</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[User site] Add text box context in modal review hotel">
+      <created>1462096882180</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1462096882180</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[User site] Add contexts in page review and refactor code">
+      <created>1462684651611</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1462684651611</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[User site] Refactor">
+      <created>1462684889264</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1462684889264</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[User site] Add font lang">
+      <created>1462690865506</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1462690865506</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[User site] Refactor">
+      <created>1463277274037</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1463277274037</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[User site] Refactor code">
+      <created>1463278180002</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1463278180002</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[User site] Add context in page reviews">
+      <created>1463316326920</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1463316326920</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[User site] Get conditions search">
+      <created>1463848630500</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1463848630500</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[User site] Add search by location">
+      <created>1463858736231</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1463858736231</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[User site] Refactor code">
+      <created>1463897522900</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1463897522900</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[User site] Fix HTML">
+      <created>1465727488886</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1465727488886</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19527897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20100144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30843374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4993598" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43277848" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -585,6 +592,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ASC" />
+    <MESSAGE value="[User site] Add text box context in modal review hotel" />
+    <MESSAGE value="[User site] Add contexts in page review and refactor code" />
+    <MESSAGE value="[User site] Add font lang" />
+    <MESSAGE value="[User site] Refactor" />
+    <MESSAGE value="[User site] Add context in page reviews" />
+    <MESSAGE value="[User site] Get conditions search" />
+    <MESSAGE value="[User site] Add search by location" />
+    <MESSAGE value="[User site] Refactor code" />
+    <MESSAGE value="[User site] Fix HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="[User site] Fix HTML" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="3" />
@@ -592,87 +612,247 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/default/RTL.css">
+    <entry file="file://$PROJECT_DIR$/themes/default/views/hotels/main-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="160" column="49" selection-start-line="160" selection-start-column="49" selection-end-line="160" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#6;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#form#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/hotels/controllers/hotels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="98" column="33" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/views/cars/cars.php">
+    <entry file="file://$PROJECT_DIR$/themes/default/scripts.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.2034188">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/views/hotels/main-search.php">
+    <entry file="file://$PROJECT_DIR$/../../xamppfiles/etc/extra/httpd-vhosts.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/views/integrations/ean/hotel.php">
+    <entry file="file://$PROJECT_DIR$/application/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="226" column="8" selection-start-line="226" selection-start-column="8" selection-end-line="226" selection-end-column="8" />
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/hotels/views/translate.php">
+    <entry file="file://$PROJECT_DIR$/application/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/coupons_view.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/hotelajaxcalls.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="136" column="38" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
+        <state vertical-scroll-proportion="-5.3846154">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/modules/coupon/coupons.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/bookings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0576923">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/offers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.017632242">
+          <caret line="121" column="0" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/models/special_offers_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17701149">
+          <caret line="161" column="21" selection-start-line="161" selection-start-column="21" selection-end-line="161" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/supplier/models/supplier_hotel_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17701149">
+          <caret line="230" column="31" selection-start-line="230" selection-start-column="31" selection-end-line="230" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/hotels/views/manage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.0367646">
+          <caret line="387" column="19" selection-start-line="387" selection-start-column="19" selection-end-line="387" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4482758">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/temp_view.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="269" column="28" selection-start-line="269" selection-start-column="28" selection-end-line="269" selection-end-column="28" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/extras_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4015444">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/en/front_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/account/controllers/account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31724137">
+          <caret line="183" column="5" selection-start-line="183" selection-start-column="5" selection-end-line="183" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/pending.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/assets/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3474843">
+          <caret line="5" column="16900" selection-start-line="5" selection-start-column="16900" selection-end-line="5" selection-end-column="16900" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="239" column="10" selection-start-line="239" selection-start-column="10" selection-end-line="239" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/views/home/slider-new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/views/home/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/default/views/home/slider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16447368">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/functions.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/supplier/controllers/supplier.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="18" />
+        <state vertical-scroll-proportion="-0.311054">
+          <caret line="255" column="17" selection-start-line="255" selection-start-column="17" selection-end-line="255" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/views/cars/main-search.php">
+    <entry file="file://$PROJECT_DIR$/themes/default/views/hotels/hotels.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="172" selection-start-line="41" selection-start-column="169" selection-end-line="41" selection-end-column="172" />
+        <state vertical-scroll-proportion="0.13624679">
+          <caret line="204" column="10" selection-start-line="203" selection-start-column="12" selection-end-line="204" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/myconfig.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/hotels/controllers/hotelsback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.628534">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/hotels/models/context_model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/include/datepicker/one.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/hotels/helpers/hotels_helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9622642">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/hotels/views/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1182519">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -683,291 +863,138 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/doctypes.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/supplier/controllers/hotelajaxcalls.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="86.875">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/foreign_chars.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/form_validation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4949493">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/smileys.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0479798">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/user_agents.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3181818">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/system/database/DB_driver.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.3846154">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/profiler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5202156">
-          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/libraries/myweather.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74678665">
-          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/assets/js/ripples.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="308" selection-start-line="0" selection-start-column="308" selection-end-line="0" selection-end-column="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/home/controllers/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1863728">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/views/hotels/hotel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/supplier/controllers/bookings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/supplier/models/supplier_reviews_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.751503">
-          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/hotels/controllers/hotelsback.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/vi/front_lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-288.75">
-          <caret line="462" column="9" selection-start-line="462" selection-start-column="5" selection-end-line="462" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1413044">
-          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/system/core/Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32453415">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/hotels/models/hotels_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7670807">
-          <caret line="1346" column="5" selection-start-line="1346" selection-start-column="5" selection-end-line="1346" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/hotels/models/rooms_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <marker date="1461595352000" expanded="true" signature="22284:22338" placeholder="INSERT INTO pt_rooms_availabilities... " />
-            <marker date="1461595352000" expanded="true" signature="23169:23203" placeholder="UPDATE pt_ro... " />
-            <marker date="1461595352000" expanded="true" signature="26303:26866" placeholder="SELECT r.roo... pt_rooms" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/hotels/models/context_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.625">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/hotels/controllers/hotels.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-60.625">
-          <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/views/home/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/sliptree-bootstrap-tokenfield-9c06df4/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="641" column="73" selection-start-line="641" selection-start-column="71" selection-end-line="641" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.30279502">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/supplier/controllers/reviews.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.708333">
-          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-          <folding />
+        <state vertical-scroll-proportion="0.13496144">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/views/hotels/includes/reviews.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/models/reviews_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/hotels/controllers/hotels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8301435">
+          <caret line="199" column="10" selection-start-line="199" selection-start-column="10" selection-end-line="199" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../xamppfiles/etc/extra/httpd-vhosts.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/default/views/hotels/includes/text.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="4" selection-end-line="12" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.01923077">
+          <caret line="273" column="42" selection-start-line="273" selection-start-column="42" selection-end-line="273" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/ajaxcalls.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.574359">
+          <caret line="1019" column="21" selection-start-line="1019" selection-start-column="21" selection-end-line="1019" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/vi/front_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-61.083332">
+          <caret line="481" column="9" selection-start-line="481" selection-start-column="9" selection-end-line="481" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/default/header.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/hotels/models/hotels_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375">
-          <caret line="59" column="86" selection-start-line="54" selection-start-column="4" selection-end-line="59" selection-end-column="86" />
+        <state vertical-scroll-proportion="-23.375">
+          <caret line="824" column="43" selection-start-line="824" selection-start-column="43" selection-end-line="824" selection-end-column="43" />
           <folding>
-            <element signature="e#8888#8955#0#PHP" expanded="true" />
-            <element signature="e#9928#9975#0#PHP" expanded="true" />
+            <marker date="1468763537000" expanded="true" signature="32314:32389" placeholder="SELECT short... pt_countries" />
+            <marker date="1468763537000" expanded="true" signature="32314:32658" placeholder="SELECT short... " />
+            <marker date="1468763537000" expanded="true" signature="32409:32481" placeholder="SELECT state... pt_states" />
+            <marker date="1468763537000" expanded="true" signature="32494:32564" placeholder="SELECT city_... pt_cities" />
+            <marker date="1468763537000" expanded="true" signature="32584:32658" placeholder="SELECT hotel... pt_hotels" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/cms.php">
+    <entry file="file://$PROJECT_DIR$/Matrix">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3529413">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state vertical-scroll-proportion="-29.125">
+          <caret line="112" column="1" selection-start-line="1" selection-start-column="0" selection-end-line="112" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/account/controllers/account.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/home/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="20.625">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="150.0">
+          <caret line="16" column="14" selection-start-line="15" selection-start-column="10" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <marker date="1468763009000" expanded="true" signature="16635:16710" placeholder="SELECT short... pt_countries" />
+            <marker date="1468763009000" expanded="true" signature="16635:16885" placeholder="SELECT short... " />
+            <marker date="1468763009000" expanded="true" signature="16730:16802" placeholder="SELECT state... pt_states" />
+            <marker date="1468763009000" expanded="true" signature="16815:16885" placeholder="SELECT city_... pt_cities" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/api/controllers/hotels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1316873">
+          <caret line="191" column="9" selection-start-line="191" selection-start-column="9" selection-end-line="191" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/accounts.php">
+    <entry file="file://$PROJECT_DIR$/themes/default/views/hotels/main-search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.125">
-          <caret line="592" column="0" selection-start-line="592" selection-start-column="0" selection-end-line="592" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5144033">
+          <caret line="184" column="26" selection-start-line="184" selection-start-column="26" selection-end-line="184" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#6;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#form#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default/views/hotels/hotel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/account/controllers/login.php">
+    <entry file="file://$PROJECT_DIR$/application/modules/hotels/libraries/hotels_lib.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/models/accounts_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.375">
-          <caret line="277" column="41" selection-start-line="277" selection-start-column="41" selection-end-line="277" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13736264">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375">
-          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48850575">
-          <caret line="140" column="74" selection-start-line="140" selection-start-column="74" selection-end-line="140" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.436214">
+          <caret line="242" column="115" selection-start-line="242" selection-start-column="115" selection-end-line="242" selection-end-column="115" />
           <folding />
         </state>
       </provider>

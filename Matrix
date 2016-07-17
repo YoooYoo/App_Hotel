@@ -1,0 +1,113 @@
+<?php
+/*
+@INPUT:
+R     : Ma trận cần phân rã với kích thước  N x M
+P     : Ma trận khởi tạo theo phân phối chuẩn với kích thước N x K
+Q     : Ma trận khởi tạo theo phân phối chuẩn với kích thước M x K
+K     : Chỉ số phân phối chuẩn (phương sai σ²)
+steps : số lượng tối đa các bước để thực hiện việc tối ưu hóa
+alpha : Tốc độ học (β)
+beta  : Hệ số chính tắt hoá (λ)
+@OUTPUT:
+Ma trận P và ma trận chuyển vị
+*/
+function matrix_factorization($R, $P, $Q, $K, $steps = 5000, $alpha = 0.0002, $beta = 0.02)
+{
+    $Q = transpose($Q);
+    for ($step = 0; $step < $steps; $step++) {
+        for ($i = 0; $i < count($R); $i++) {
+            for ($j = 0; $j < count($R[$i]); $j++) {
+                if ($R[$i][$j] > 0) {
+                    $sigmaPQ = 0;
+                    for ($z = 0; $z < $K; $z++) {
+                        $sigmaPQ += $P[$i][$z] * $Q[$z][$j];
+                    }
+                    $eij = $R[$i][$j] - $sigmaPQ;
+                    for ($k = 0; $k < $K; $k++) {
+                        $P[$i][$k] = $P[$i][$k] + $alpha * (2 * $eij * $Q[$k][$j] - $beta * $P[$i][$k]);
+                        $Q[$k][$j] = $Q[$k][$j] + $alpha * (2 * $eij * $P[$i][$k] - $beta * $Q[$k][$j]);
+                    }
+                }
+            }
+        }
+        $e = 0;
+        for ($i = 0; $i < count($R); $i++) {
+            for ($j = 0; $j < count($R[$i]); $j++) {
+                if ($R[$i][$j] > 0) {
+
+                    $sigmaPQ = 0;
+                    for ($z = 0; $z < $K; $z++) {
+                        $sigmaPQ += $P[$i][$z] * $Q[$z][$j];
+                    }
+                    $e = $e + pow($R[$i][$j] - $sigmaPQ, 2);
+                    for ($k = 0; $k < $K; $k++) {
+                        $e = $e + ($beta / 2) * (pow($P[$i][$k], 2) + pow($Q[$k][$j], 2));
+                    }
+                }
+            }
+        }
+        if ($e < 0.001) {
+            break;
+        }
+    }
+    return [$P, transpose($Q)];
+}
+
+/**
+ * Hàm nhân hai ma trận
+ *
+ * @param array $matrix_a
+ * @param array $matrix_b
+ * @return array
+ * @throws Exception
+ */
+function matrixmult($matrix_a, $matrix_b)
+{
+    $matrix_a_count = count($matrix_a);
+    $c = count($matrix_b[0]);
+    $matrix_b_count = count($matrix_b);
+    if (count($matrix_a[0]) != $matrix_b_count) {
+        throw new Exception('Incompatible matrices');
+    }
+    $matrix_return = array();
+    for ($i = 0; $i < $matrix_a_count; $i++) {
+        for ($j = 0; $j < $c; $j++) {
+            $matrix_return[$i][$j] = 0;
+            for ($k = 0; $k < $matrix_b_count; $k++) {
+                $matrix_return[$i][$j] += $matrix_a[$i][$k] * $matrix_b[$k][$j];
+            }
+        }
+    }
+    return ($matrix_return);
+}
+
+/**
+ * Hàm khởi tạo ma trận theo phân phối chuẩn
+ *
+ * @param int $dim Số dòng hoặc số cột của ma trận
+ * @param int $num Phân phối chuẩn
+ * @return array
+ */
+function generateRandomArray($dim, $num)
+{
+    $newArray = array();
+    for ($i = 0; $i < $dim; $i++) {
+        for ($j = 0; $j < $num; $j++) {
+            $newArray[$i][$j] = mt_rand() / mt_getrandmax();
+        }
+    }
+    return $newArray;
+}
+
+/**
+ * Hàm xây dựng ma trận chuyển vị
+ *
+ * @param array $array ma trận cần chuyển vị
+ *
+ * @return mixed
+ */
+function transpose($array)
+{
+    array_unshift($array, null);
+    return call_user_func_array('array_map', $array);
+}
